@@ -1,0 +1,10 @@
+Public IP Address: 49.36.157.248Processor: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: NAMANSSS-LAPPY
+Private IP Address: 192.168.29.154
+Public IP Address: 49.36.191.142Processor: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: NAMANSSS-LAPPY
+Private IP Address: 192.168.29.154
